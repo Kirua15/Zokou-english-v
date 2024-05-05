@@ -1,4 +1,4 @@
-# Zokou-2.0
+I90# Zokou-2.0
 
 
 
@@ -54,5 +54,4 @@ Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversatio
 
 - [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
 - [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
--[**Kirua15**](https://github.com/Kirua15) 
 
